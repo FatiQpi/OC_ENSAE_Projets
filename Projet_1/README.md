@@ -1,3 +1,5 @@
+# Créez et utilisez une base de données immobilière avec SQL
+
 ![Description de l'image](https://user.oc-static.com/upload/2023/05/16/16842485118037_OC-Bannieres-Projet_Student-Scenario_Scenario.png)
 Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 ![Description de l'image](https://user.oc-static.com/upload/2020/11/24/16062363168182_image1.png)
